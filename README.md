@@ -1,0 +1,2 @@
+# bagus
+Ijin chmod bos
